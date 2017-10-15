@@ -1,0 +1,7 @@
+#Fri Sep 15 12:25:07 PDT 2017
+base.0=/Users/VenkatPrathipati/Downloads/Silent Hours/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8687cebdc5541a0870291916611cc403d20eb6aa
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/VenkatPrathipati/Downloads/Silent Hours/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_35f72f208a49ecb5919cf169b38ca53e0beb9ed2/classes.dex
+base.1=/Users/VenkatPrathipati/Downloads/Silent Hours/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_35f72f208a49ecb5919cf169b38ca53e0beb9ed2
+file.0=/Users/VenkatPrathipati/Downloads/Silent Hours/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8687cebdc5541a0870291916611cc403d20eb6aa/classes.dex

@@ -1,0 +1,103 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="1"
+            android:orientation="vertical"
+            android:background="#EDBB99">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Select Day"
+                android:textAlignment="@android:center"
+                android:id="@+id/textView"
+                android:layout_gravity="center_horizontal"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                android:background="#EDBB99" />
+
+            <DatePicker
+                android:id="@+id/pickerdate"
+                android:layout_width="wrap_content"
+                android:layout_height="425dp"
+                android:background="#EDBB99"
+                android:layout_gravity="center_horizontal"
+                android:datePickerMode="calendar"
+                android:headerBackground="#707B7C"
+                tools:targetApi="lollipop" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Select Start Time"
+                android:id="@+id/textView2"
+                android:layout_gravity="center_horizontal"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                android:background="#EDBB99" />
+
+            <TimePicker
+                android:id="@+id/pickertime"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:background="#76b68d"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:id="@+id/textView3"
+                android:textAlignment="center"
+                android:text="Choose Mode"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/setvibrate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Set Vibrate"
+                android:textColor="#ffffff"
+                android:background="#959595"
+                android:textStyle="bold" />
+            <Button
+                android:id="@+id/setsilent"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Set Silent"
+                android:background="#959595"
+                android:textColor="#ffffff"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/info"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Next"
+                android:id="@+id/nextbutton"
+                android:onClick="second"
+                android:background="#959595"
+                android:textColor="#ffffff"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

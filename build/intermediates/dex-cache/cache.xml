@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/VenkatPrathipati/Documents/Silent Hours/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4c12a950cfc698055ec618eb0b3a7148c627bad3">
+        <dex dex="/Users/VenkatPrathipati/Documents/Silent Hours/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_55e3559d2b6654c711138bb0be324a1a5d47bd1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/VenkatPrathipati/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/VenkatPrathipati/Downloads/Silent Hours/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_b241599889fb19ade7c2b1698314c9daa5af820b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/VenkatPrathipati/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/VenkatPrathipati/Downloads/Silent Hours/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_b241599889fb19ade7c2b1698314c9daa5af820b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/VenkatPrathipati/Downloads/Silent Hours/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1f202fa64d721304399527268cc778acdb0f25b5">
+        <dex dex="/Users/VenkatPrathipati/Downloads/Silent Hours/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8687cebdc5541a0870291916611cc403d20eb6aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/VenkatPrathipati/Downloads/Silent Hours/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/VenkatPrathipati/Downloads/Silent Hours/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_35f72f208a49ecb5919cf169b38ca53e0beb9ed2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/VenkatPrathipati/Documents/Silent Hours/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8e05c52ece62ebb679b71585f96caff1655794f8">
+        <dex dex="/Users/VenkatPrathipati/Documents/Silent Hours/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_88d00e1c2cac62559a559537975a64f904c21f8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/VenkatPrathipati/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/VenkatPrathipati/Documents/Silent Hours/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_b241599889fb19ade7c2b1698314c9daa5af820b/classes.dex" />
+    </item>
+
+</items>

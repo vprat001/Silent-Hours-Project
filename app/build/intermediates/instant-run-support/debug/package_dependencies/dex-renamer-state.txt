@@ -1,0 +1,4 @@
+#Sat May 20 10:53:27 PDT 2017
+base.0=/Users/VenkatPrathipati/Downloads/Silent Hours/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_b241599889fb19ade7c2b1698314c9daa5af820b
+renamed.0=classes.dex
+file.0=/Users/VenkatPrathipati/Downloads/Silent Hours/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_b241599889fb19ade7c2b1698314c9daa5af820b/classes.dex
